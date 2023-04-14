@@ -1,6 +1,78 @@
+body{
+  background-image:url("images/fdp.jpg");
+}
+
 .center {
-    margin: ;
     background:black;
-    width: 100%;
+    width: 70%;
+    margin: 0px 0px 0px 470px ;
+    height: 100px;
   }
   
+.face{
+    height: 400px;
+    left: 800px;
+    top:-160px;
+    position: absolute;
+}  
+
+.outside {
+    margin: -150px 30px 0px 0px;
+    background: black;
+    width: 20%;
+    height:100x;
+  }
+
+  .fale{
+    height: 400px;
+    left: 60px;
+    top:20px;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+}
+
+p{
+  color:white;
+  font-size: 2rem;
+}
+
+.vale{
+  font-size: 2rem;
+  background-color: black;
+  border: black;
+  color: white;
+}
+
+.navbar{
+  height: 300px;
+  display: flex;
+  justify-content: end;
+
+}
+
+.cassio { 
+	display: flex;
+  justify-content: end;
+}
+
+.renan{
+  background:black;
+  width: 70%;
+  margin: 0px 10px 0px 470px ;
+  height: 31px;
+}
+
+.otavio{
+position: absolute;
+left: 352px;
+top: 232px;
+
+}
+
+.gato{
+  height:;
+  left: 118px;
+  top: 30px;
+  position: absolute;
+}
